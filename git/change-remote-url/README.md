@@ -6,9 +6,9 @@ Updates the remote repository URL for an existing Git project.
 
 Useful when:
 
-* Moving a repository
-* Switching from HTTPS to SSH
-* Changing Git hosting providers
+- Moving a repository
+- Switching from HTTPS to SSH
+- Changing Git hosting providers
 
 ---
 
